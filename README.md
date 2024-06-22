@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-- 🔭 Currently working with StayQrious - Online Coding Classes for Kids in Grades 4th - 9th
+- 🔭 Working as a Senior Software Engineer at KnowBe4
 - 🌱 Current tech stack - Python, JavaScript, Django, React, Typescript
-- 📫 Reach me at sprajosh@gmail.com
+- 📫 Reach me at sprajosh at gmail dot com
